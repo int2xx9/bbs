@@ -1,0 +1,12 @@
+body {
+	padding-top: 60px;
+	position: relative;
+}
+/* http://css-tricks.com/hash-tag-links-padding/ */
+.anchor-target:before {
+	display: block;
+	content: " ";
+	margin-top: -45px;
+	height: 60px;
+	visibility: hidden;
+}

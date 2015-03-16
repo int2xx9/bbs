@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="BootstrapAlertControl.ascx.cs" Inherits="BBS.Controls.BootstrapAlertControl" %>
+<div class="alert alert-<%= GetAlertTypeString() %>" role="alert"><%= Message %></div>

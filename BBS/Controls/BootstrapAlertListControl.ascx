@@ -1,0 +1,1 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="BootstrapAlertListControl.ascx.cs" Inherits="BBS.Controls.BootstrapAlertListControl" %>
